@@ -76,6 +76,10 @@ h2{
 .project-description{
   padding: 120px 60px;
 }
+.mail-link{
+  font-size: 28px;
+  color: var(--primary-color);
+}
 @media(max-width:960px){
   .project-description{
     padding: 0;
